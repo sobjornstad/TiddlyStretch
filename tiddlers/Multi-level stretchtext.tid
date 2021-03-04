@@ -1,0 +1,12 @@
+created: 20210304032106914
+description: Expandos can be nested to produce stretchtext with more levels.
+modified: 20210306023140523
+tags: 
+title: Multi-level stretchtext
+type: text/vnd.tiddlywiki
+
+To create stretchtext with more than one level of expansion, simply make your second-level tiddlers contain another layer of expandos. If you expand the macros section of [[TiddlyStretch]], you will see three layers of nesting (this is probably //not// the best way of conveying information, as the screen gets a little busy; but for demonstration purposes it seems appropriate for this plugin).
+
+An advanced version, sometimes useful, is to place all the levels on a single tiddler, then use the [[stretch-template|$:/plugins/sobjornstad/TiddlyStretch/doc/stretch-template]] macro and have the //template// re-transclude different fields of the same tiddler within `<<stretch>>` macros. For an example of this method, take a look at [[TiddlyStretch Macros|$:/plugins/sobjornstad/TiddlyStretch/TiddlyStretch Macros]] and the [[MacroInfoTemplate|$:/plugins/sobjornstad/TiddlyStretch/doc/MacroInfoTemplate]].
+
+It is safe to use the same tiddler in multiple expandos; each will maintain its own open/closed state (until the page is refreshed, when all will returned to closed).

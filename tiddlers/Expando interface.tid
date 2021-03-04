@@ -1,0 +1,10 @@
+created: 20210304031355625
+description: Expandos look like paragraphs with several useful icons in the upper-left corner.
+modified: 20210304032741580
+tags: 
+title: Expando interface
+type: text/vnd.tiddlywiki
+
+Expandos look like paragraphs with a couple of icons in the upper-left corner. The magnifying glass icon allows you to toggle the state of the expando, and the other two icons allow you to view or edit the referenced tiddler in its own item in the story river.
+
+When expanded, an expando also displays the name of its associated tiddler in square brackets.

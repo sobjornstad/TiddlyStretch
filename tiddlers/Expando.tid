@@ -1,0 +1,8 @@
+created: 20210304031335418
+description: TiddlyStretch divides stretchtext into units called ''expandos'', which are views into specific tiddlers.
+modified: 20210304031433250
+tags: 
+title: Expando
+type: text/vnd.tiddlywiki
+
+TiddlyStretch divides stretchtext into units called ''expandos''. Each expando is a view into a specific tiddler and can either be in a closed/collapsed state or an open/expanded state. The simplest type of expando shows the `description` field of the tiddler when collapsed and the `text` field when expanded, but it's possible to choose different fields or to render the tiddler through two different templates with arbitrary contents.

@@ -1,0 +1,11 @@
+created: 20210304031531751
+description: To install, drag and drop: [[TiddlyStretch|$:/plugins/sobjornstad/TiddlyStretch]], [[Tw5FontAwesome|$:/plugins/TheDiveO/FontAwesome]]
+modified: 20210304031605982
+tags: 
+title: Installation
+type: text/vnd.tiddlywiki
+
+To use TiddlyStretch, install the TiddlyStretch plugin along with TheDiveO's TW5FontAwesome ([[info|http://thediveo.github.io/TW5FontAwesome/]]) by dragging and dropping the following links into your wiki:
+
+* [[TiddlyStretch|$:/plugins/sobjornstad/TiddlyStretch]]
+* [[Tw5FontAwesome|$:/plugins/TheDiveO/FontAwesome]]

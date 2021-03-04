@@ -1,0 +1,22 @@
+created: 20210304025903292
+modified: 20210306023830221
+title: TiddlyStretch
+type: text/vnd.tiddlywiki
+
+TiddlyStretch implements [[stretchtext|https://en.wikipedia.org/wiki/StretchText]] in TiddlyWiki. Stretchtext is a form of hypertext where you can “zoom in” each section of the text to a desired level of detail in-place, rather than opening a series of separate pages and flipping between them. While you may never have heard of it before, it's quite intuitive.
+
+A text composed //only// of stretchtext would likely become unwieldy, but there are times where this modality hits a sweet spot between transcluding (losing the fact that the content ever had its own identity at all) and linking (requiring the current context to be foregone entirely if the reader wants to get more details).
+
+The remainder of this tiddler (and the documentation) is presented as stretchtext. Click a magnifying glass to change the level of detail.
+
+!! More info
+
+<<stretch Expando>>
+
+<<stretch "Multi-level stretchtext">>
+
+<<stretch "Expando interface">>
+
+<<stretch Installation>>
+
+<<stretch "$:/plugins/sobjornstad/TiddlyStretch/TiddlyStretch Macros">>
