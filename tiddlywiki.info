@@ -1,8 +1,6 @@
 {
     "description": "TiddlyStretch documentation",
     "plugins": [
-        "tiddlywiki/filesystem",
-        "tiddlywiki/tiddlyweb"
     ],
     "themes": [
         "tiddlywiki/vanilla"
